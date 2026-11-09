@@ -30,6 +30,8 @@ The application in question will contain these features:
 ● Steam API
 
 ● Steam price history archives
+
+● CustomTkinter Library
 # Scrum Process
 This project follows Scrum practices using:
 
